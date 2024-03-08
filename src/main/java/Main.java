@@ -8,7 +8,7 @@ import java.net.URL;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(chatGPT("ААААА УССЕ УССЕ УССЕВА"));
+        System.out.println(chatGPT("Hello"));
     }
 
     public static String chatGPT(String message) {
